@@ -7,7 +7,7 @@ https://www.st.com/en/development-tools/stm32cubeide.html#get-software.
 **Step 2 :** Upon installation, I began by creating a new file   
 File -> New -> STM32 Project -> press 'Enter'.
 
- ![image](https://github.com/user-attachments/assets/51713f58-8a37-4fe5-8514-3bdad59387bf)
+ ![image](https://github.com/user-attachments/assets/51713f58-8a37-4fe5-8514-3bdad59387bf) 
 
  
 **Step 3:** After that, I chose the board ‘Nucleo-F411RE’.
